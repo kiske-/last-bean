@@ -3,7 +3,7 @@
 A 2D survival game built with [Kaplay.js](https://kaplayjs.com/).
 
 You can play the game here:  
-👉 [https://kiske-.github.io/last-bean/](https://kiske-.github.io/last-bean/)
+👉 [https://kiskejp.github.io/last-bean/](https://kiskejp.github.io/last-bean/)
 
 ---
 
