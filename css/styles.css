@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Darumadrop One';
+    src: url('../fonts/DarumadropOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+    width: 100%;
+    height: 100vh;
+    font-family: 'Darumadrop One', cursive;
+}
+
+canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
